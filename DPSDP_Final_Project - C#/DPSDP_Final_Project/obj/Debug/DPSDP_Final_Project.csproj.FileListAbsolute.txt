@@ -1,0 +1,6 @@
+C:\Users\hamza\Desktop\Hamza\ESILV\2021-2022\S7\Design Pattern & Software Development Process\Projet\DPSDP_Final_Project\DPSDP_Final_Project\obj\Debug\DPSDP_Final_Project.csprojAssemblyReference.cache
+C:\Users\hamza\Desktop\Hamza\ESILV\2021-2022\S7\Design Pattern & Software Development Process\Projet\DPSDP_Final_Project\DPSDP_Final_Project\bin\Debug\DPSDP_Final_Project.exe.config
+C:\Users\hamza\Desktop\Hamza\ESILV\2021-2022\S7\Design Pattern & Software Development Process\Projet\DPSDP_Final_Project\DPSDP_Final_Project\bin\Debug\DPSDP_Final_Project.exe
+C:\Users\hamza\Desktop\Hamza\ESILV\2021-2022\S7\Design Pattern & Software Development Process\Projet\DPSDP_Final_Project\DPSDP_Final_Project\bin\Debug\DPSDP_Final_Project.pdb
+C:\Users\hamza\Desktop\Hamza\ESILV\2021-2022\S7\Design Pattern & Software Development Process\Projet\DPSDP_Final_Project\DPSDP_Final_Project\obj\Debug\DPSDP_Final_Project.exe
+C:\Users\hamza\Desktop\Hamza\ESILV\2021-2022\S7\Design Pattern & Software Development Process\Projet\DPSDP_Final_Project\DPSDP_Final_Project\obj\Debug\DPSDP_Final_Project.pdb
